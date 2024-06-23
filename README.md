@@ -6,4 +6,4 @@ Used hardware:
 * GPU: NVIDIA GeForce MX250
 
 Visualization of impact of number of threads on computing time:
-![Compute Time vs Number of Threads]([http://url/to/img.png](https://github.com/tobias-janoschka/cuda_test/edit/main/plot_time_numberThreads.png))
+![Compute Time vs Number of Threads](plot_time_numberThreads.png?raw=true "Compute Time vs Number of Threads")
