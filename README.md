@@ -2,6 +2,7 @@
 Some test for computing with numba based on:
 
 https://towardsdatascience.com/cuda-by-numba-examples-1-4-e0d06651612f
+
 23.06.2024
 
 Used hardware:
